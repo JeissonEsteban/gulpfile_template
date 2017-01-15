@@ -1,24 +1,26 @@
-# gulpfile_template
+## Templates
 Gulp + Browser-Sync + AngularJs + SASS + Bootstrap
 
-# requeriments
+## Requeriments
 1. Gulp global
-...
+
+```bash
     $ npm install gulp -g
-...
+```
+
 2. Browser-Sync global 
-...
+
+```bash
     $ npm install browser-sync -g
-...
+```
 
-# configuration
+## Configuration
 
-...
+```bash
     $ npm install
-...
+```
+## Start 
 
-# start 
-
-...
+```bash
     $ gulp
-...
+```
